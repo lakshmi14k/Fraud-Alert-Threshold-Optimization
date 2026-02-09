@@ -48,7 +48,7 @@
 - **Statistical Analysis**: Hypothesis testing, confidence intervals, effect size
 - **Visualization**: Cost curves, A/B test comparisons
 
-**Project Structure:**
+**Project Structure**
 ```
 Fraud-Alert-Optimization/
 ├── Data/
@@ -59,6 +59,8 @@ Fraud-Alert-Optimization/
 │   ├── 02_model_building.ipynb
 │   ├── 03_threshold_optimization.ipynb
 │   └── 04_ab_test_analysis.ipynb
+├── sql/
+│   └── fraud_analysis_queries.sql
 ├── docs/
 │   └── executive_summary.md
 └── README.md
